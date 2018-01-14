@@ -85,7 +85,7 @@ Got a job!
 @title[Career reviews]
 
 ### Career path
-
+<br>
 #### Direct impact
 #### Advocacy potential
 #### Earnings
@@ -97,14 +97,73 @@ Got a job!
 
 ---
 
-@title[Career reviews]
+@title[How to choose a career]
+
 ### How to choose a career
 
 <br>
-<div class="left">
-    <i class="fa fa-compass fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://80000hours.org/career-decision/article/" class="pro-link">
-    I need to make a career decision. What should I do?</a>
-</div>
+<span class="aside">I need to make a career decision. What should I do?</span>
+
+@fa[arrow-down]
+
++++
+
+@title[Step 1]
+#### Focus on your next decision
+
+@fa[arrow-down]
+
++++
+
+@title[Step 2]
+#### Write out your most important priorities
+
+@fa[arrow-down]
+
++++
+
+@title[Step 3]
+#### Brainstorm options
+
+@fa[arrow-down]
+
++++
+
+@title[Step 4]
+#### Rank your options
+
+@fa[arrow-down]
+
++++
+
+@title[Step 5]
+#### List your key uncertainties
+
+@fa[arrow-down]
+
++++
+
+@title[Step 6]
+#### Go and investigate
 
 
+@fa[arrow-down]
+
++++
+
+@title[Step 7]
+#### Do your final assessment
+
+
+@fa[arrow-down]
+
++++
+
+@title[Step 8]
+#### Make your best guess, and then prepare to adapt
+
+---
+
+@title[Thank you]
+
+### Thank you
