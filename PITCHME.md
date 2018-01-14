@@ -42,7 +42,7 @@ Got a job!
 
 ---?image=https://atper.eu/wp-content/uploads/2015/08/RETURN.png&size=auto 50%
 
----
+---?video=https://youtu.be/-j4VBZscS0U
 
 @title[Slide Rich]
 
