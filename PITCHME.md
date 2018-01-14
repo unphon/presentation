@@ -93,25 +93,18 @@ Got a job!
 #### Job satisfaction
 
 <br>
-[Take the quiz]](https://80000hours.org/career-reviews/)
+[Take the quiz](https://80000hours.org/career-reviews/)
 
 ---
 
-### <span class="gold">GitPitch Pro - Coming Soon!</span>
+@title[Career reviews]
+### How to choose a career
 
 <br>
 <div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
+    <i class="fa fa-compass fa-5x" aria-hidden="true"> </i><br>
+    <a href="https://80000hours.org/career-decision/article/" class="pro-link">
+    I need to make a career decision. What should I do?</a>
 </div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
+
 
