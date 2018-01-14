@@ -40,9 +40,7 @@ Got a job!
 
 ### <span class="gold">STEP 2. Give back</span>
 
----
-
-?image=https://atper.eu/wp-content/uploads/2015/08/RETURN.png&size=auto 50%
+---?image=https://atper.eu/wp-content/uploads/2015/08/RETURN.png&size=auto 50%
 
 
 ---
