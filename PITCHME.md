@@ -165,6 +165,6 @@ Got a job!
 
 ---
 
-@title[References]
+@title[Reference]
 <br>
-![Image-Absolute](assets/book.png)
+![Image-Absolute](assets/book.png&size=auto 90%)
