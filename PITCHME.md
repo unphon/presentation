@@ -164,6 +164,6 @@ Got a job!
 
 ---
 
-@title[Thank you]
-
-### Thank you
+@title[References]
+<br>
+![Image-Absolute](assets/book.png)
