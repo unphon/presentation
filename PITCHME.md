@@ -53,6 +53,14 @@ Got a job!
 ![YouTube Video](https://www.youtube.com/embed/-j4VBZscS0U)
 
 ---
+@title[Career advice]
+
+#### How best to choose a career with high social impact?
+<br>
+
+@fa[arrow-down]
+
++++
 @title[80000 hours]
 ### 80000hours.org
 <br>
@@ -66,7 +74,8 @@ Got a job!
 <br>
 #### Work you’re good at,
 #### Work that helps others,
-#### Supportive conditions: engaging work that lets you enter a state of flow; supportive colleagues; lack of major negatives like unfair pay; and work that fits your personal life.
+<br>
+<span class="aside">Supportive conditions: engaging work that lets you enter a state of flow; supportive colleagues; lack of major negatives like unfair pay; and work that fits your personal life.</span>
 
 ---
 
