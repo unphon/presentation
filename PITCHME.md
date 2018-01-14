@@ -45,7 +45,7 @@ Got a job!
 +++ 
 @title[Project RETURN]
 
-![Image-Absolute](https://atper.eu/wp-content/uploads/2015/08/RETURN.png&size=auto 50%)
+![Image-Absolute](assets/logo.png)
 
 +++ 
 @title[แชร์ประสบการณ์ เรียนต่อ Bioinformatics]
