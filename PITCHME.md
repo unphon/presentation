@@ -19,29 +19,29 @@
 ## 2010 - PhD. 
 <span class="aside">Software Development Group. IT University of Copenhagen</span>
 ## 2005 - MSc. 
-<span class="aside">Information Technology, SIIT, Thammasat University</span>
+<span class="aside">Information Technology. SIIT, Thammasat University</span>
 ## 2001 - BSc. 
-<span class="aside">Information Technology, SIIT, Thammasat University</span>
+<span class="aside">Information Technology. SIIT, Thammasat University</span>
 
 ---
 
-@title[Step 2. Git-Commit]
+@title[Become a developer at a bank]
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
+### <span class="gold">Set up my career</span>
 <br>
 
 ```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
+$ 2001 - BSc.
+$ 2005 - MSc. 
+$ 2010 - PhD.
 
 Done!
 ```
 
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+@[1](Took 4 years education in Information Technology at SIIT, Thammasat University)
+@[2](Got scholarship to persue higher education in Information Technology at SIIT, Thammasat University)
+@[3](Got scholarship to persue PhD at Software Development Group, IT University of Copenhagen and I'm done!)
+@[5](Works at Nordea Bank since 2011 until now)
 
 ---
 
