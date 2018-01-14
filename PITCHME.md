@@ -18,13 +18,13 @@
 
 @title[Become a developer at a bank]
 
-### <span class="gold">Set up my career as IT developer</span>
+### <span class="gold">Set up IT developer</span>
 <br>
 
 ```shell
-$ 2001 - BSc.
-$ 2005 - MSc. 
-$ 2010 - PhD.
+$ BSc. 1997-2001
+$ MSc. 2001-2005 
+$ PhD. 2006-2010
 
 Done!
 ```
@@ -32,7 +32,7 @@ Done!
 @[1](Studied Information Technology at SIIT, Thammasat University)
 @[2](Got scholarship for MSc from Information Technology at SIIT, Thammasat University)
 @[3](Got scholarship for PhD from Software Development Group, IT University of Copenhagen and I'm done!)
-@[5](Works at Nordea Bank since 2011 until now)
+@[5](Have been working at Nordea Bank, Denmark since 2011 until now)
 
 ---
 
