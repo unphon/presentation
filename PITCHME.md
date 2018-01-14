@@ -44,7 +44,7 @@ Got a job!
 
 @fa[arrow-down]
 
-+++?image=assets/logo.png
++++?image=assets/logo.png&size=auto 90%
 @title[Project RETURN]
 
 +++ 
