@@ -50,7 +50,7 @@ Got a job!
 +++ 
 @title[แชร์ประสบการณ์ เรียนต่อ Bioinformatics]
 
-![Video](video=https://www.youtube.com/embed/-j4VBZscS0U)
+![YouTube Video](https://www.youtube.com/embed/-j4VBZscS0U)
 
 ---
 
