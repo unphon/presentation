@@ -2,10 +2,10 @@
 
 # 80,000 hours
 
-#### Career Advice For Darunsikkhalai School for Innovative Learning.*
+#### Career Advice @ Darunsikkhalai School for Innovative Learning
 <br>
 <br>
-<span class="byline">[Hataichanok Unphon, PhD]</span>
+<span class="byline">[Nok Unphon, PhD]</span>
 
 ---
 
