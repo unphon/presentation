@@ -163,8 +163,4 @@ Got a job!
 #### Make your best guess, 
 #### and then prepare to adapt
 
----
-
-@title[Reference]
-<br>
-![Image-Absolute](assets/book.png&size=auto 90%)
+---?image=assets/book.png&size=auto 90%
