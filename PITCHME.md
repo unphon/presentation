@@ -53,18 +53,20 @@ Got a job!
 ![YouTube Video](https://www.youtube.com/embed/-j4VBZscS0U)
 
 ---
-
-@title[Slide Rich]
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
+@title[80000 hours]
+### 80000hours.org
 <br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
+[Click here to learn more @fa[external-link fa-pad-left]](https://80000hours.org/)
+
+---
+
+@title[What is fulfilling career?]
+
+### To find a dream job, look for:
+<br>
+#### Work you’re good at,
+#### Work that helps others,
+#### Supportive conditions: engaging work that lets you enter a state of flow; supportive colleagues; lack of major negatives like unfair pay; and work that fits your personal life.
 
 ---
 
@@ -98,9 +100,3 @@ Got a job!
     </ul>
 </div>
 
----
-
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
