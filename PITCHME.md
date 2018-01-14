@@ -20,7 +20,7 @@
 
 @title[Step 1. Get education]
 
-### <span class="gold">Step 1. Get education</span>
+### Step 1. Get education
 <br>
 
 ```shell
@@ -40,7 +40,7 @@ Got a job!
 
 @title[Step 2. Give back]
 
-### <span class="gold">STEP 2. Give back</span>
+### STEP 2. Give back
 
 <br>
 
@@ -71,7 +71,7 @@ Got a job!
 
 ---
 
-@title[What is fulfilling career?]
+@title[Find a dream job]
 
 ### To find a dream job, look for:
 <br>
@@ -82,15 +82,18 @@ Got a job!
 
 ---
 
-@title[Feature Rich]
+@title[Career reviews]
 
-### <span class="gold">Feature Rich</span>
+### Career path
 
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
+#### Direct impact
+#### Advocacy potential
+#### Earnings
+#### Career capital
+#### Job satisfaction
+
+<br>
+[Take the quiz]](https://80000hours.org/career-reviews/)
 
 ---
 
