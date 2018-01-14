@@ -16,18 +16,9 @@
 
 ---
 
-## 2010 - PhD. 
-<span class="aside">Software Development Group. IT University of Copenhagen</span>
-## 2005 - MSc. 
-<span class="aside">Information Technology. SIIT, Thammasat University</span>
-## 2001 - BSc. 
-<span class="aside">Information Technology. SIIT, Thammasat University</span>
-
----
-
 @title[Become a developer at a bank]
 
-### <span class="gold">Set up my career</span>
+### <span class="gold">Set up my career as IT developer</span>
 <br>
 
 ```shell
@@ -38,9 +29,9 @@ $ 2010 - PhD.
 Done!
 ```
 
-@[1](Took 4 years education in Information Technology at SIIT, Thammasat University)
-@[2](Got scholarship to persue higher education in Information Technology at SIIT, Thammasat University)
-@[3](Got scholarship to persue PhD at Software Development Group, IT University of Copenhagen and I'm done!)
+@[1](Studied Information Technology at SIIT, Thammasat University)
+@[2](Got scholarship for MSc from Information Technology at SIIT, Thammasat University)
+@[3](Got scholarship for PhD from Software Development Group, IT University of Copenhagen and I'm done!)
 @[5](Works at Nordea Bank since 2011 until now)
 
 ---
