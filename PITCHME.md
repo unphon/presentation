@@ -10,8 +10,7 @@
 @title[PITCHME.md]
 
 #### Nok Unphon
-#### IT Developer
-#### Nordea Bank, Denmark
+#### IT Developer @  Nordea Bank, Denmark
 <br>
 <span class="aside">Also a spokesperson for Project Return</span>
 
