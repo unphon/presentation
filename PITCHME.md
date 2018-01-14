@@ -7,20 +7,21 @@
 
 ---
 
-@title[PITCHME.md]
+@title[About me]
 
-#### Nok Unphon
+## Nok Unphon
 #### IT Developer @  Nordea Bank, Denmark
 <br>
 <span class="aside">Also a spokesperson for Project Return</span>
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+### 2010 - PhD, Software Development Group. 
+#### IT University of Copenhagen
+### 2005 - MSc, IT. 
+#### SIIT, Thammasat University
+### 2001 - BSc, IT. 
+##### SIIT, Thammasat University
 
 ---?code=assets/md/hello.md&title=Step 1. PITCHME.md
 
