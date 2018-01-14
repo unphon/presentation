@@ -40,12 +40,12 @@ Got a job!
 
 ### <span class="gold">STEP 2. Give back</span>
 
+<br>
+
 @fa[arrow-down]
 
-+++ 
++++?image=assets/logo.png
 @title[Project RETURN]
-
-![Image-Absolute](assets/logo.png)
 
 +++ 
 @title[แชร์ประสบการณ์ เรียนต่อ Bioinformatics]
