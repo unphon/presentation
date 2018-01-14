@@ -12,13 +12,13 @@
 ## Nok Unphon
 #### IT Developer @  Nordea Bank, Denmark
 <br>
-<span class="aside">Also a spokesperson for Project Return</span>
+<span class="aside">Also a spokesperson for Project RETURN</span>
 
 ---
 
-@title[Become a developer at a bank]
+@title[Step 1. Get education]
 
-### <span class="gold">Set up</span>
+### <span class="gold">Step 1. Get education</span>
 <br>
 
 ```shell
@@ -36,14 +36,14 @@ Got a job!
 
 ---
 
-@title[Step 3. Done!]
+@title[Step 2. Give back]
 
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
+### <span class="gold">STEP 2. Give back</span>
 <br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
+![Project RETURN](https://atper.eu/wp-content/uploads/2015/08/RETURN.png)
 <br>
 <br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+#### To inspire Thai people, at home or abroad, through cooperation and communication as well as to give an opportunity to Thai people to gain knowledge and experience from abroad in not only theoretical but practical aspects.
 
 ---
 
