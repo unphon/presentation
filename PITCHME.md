@@ -55,8 +55,9 @@ Got a job!
 ---
 @title[Career advice]
 
-#### How best to choose a career with high social impact?
+## How best to choose a career 
 <br>
+#### with high social impact?
 
 @fa[arrow-down]
 
