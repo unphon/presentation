@@ -39,11 +39,11 @@ Got a job!
 @title[Step 2. Give back]
 
 ### <span class="gold">STEP 2. Give back</span>
+
+---?image=https://atper.eu/wp-content/uploads/2015/08/RETURN.png&size=auto 50%
 <br>
-![Project RETURN](https://atper.eu/wp-content/uploads/2015/08/RETURN.png&size=auto 50%)
 <br>
-<br>
-#### To inspire Thai people, at home or abroad, through cooperation and communication as well as to give an opportunity to Thai people to gain knowledge and experience from abroad in not only theoretical but practical aspects.
+<span class="aside">To inspire Thai people, at home or abroad, through cooperation and communication as well as to give an opportunity to Thai people to gain knowledge and experience from abroad in not only theoretical but practical aspects.</span>
 
 ---
 
