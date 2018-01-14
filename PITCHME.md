@@ -160,7 +160,8 @@ Got a job!
 +++
 
 @title[Step 8]
-#### Make your best guess, and then prepare to adapt
+#### Make your best guess, 
+#### and then prepare to adapt
 
 ---
 
