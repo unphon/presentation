@@ -1,2 +1,2 @@
 # presentation
-- [Career Advice](https://github.com/unphon/presentation/career-advice/PITCHME.md)
+- [Career Advice](https://github.com/unphon/presentation/blob/career-advice/PITCHME.md)
