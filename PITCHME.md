@@ -16,19 +16,12 @@
 
 ---
 
-### 2010 - PhD, Software Development Group. 
-#### IT University of Copenhagen
-### 2005 - MSc, IT. 
-#### SIIT, Thammasat University
-### 2001 - BSc, IT. 
-##### SIIT, Thammasat University
-
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
-<br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
-
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+## 2010 - PhD. 
+<span class="aside">Software Development Group. IT University of Copenhagen</span>
+## 2005 - MSc. 
+<span class="aside">Information Technology, SIIT, Thammasat University</span>
+## 2001 - BSc. 
+<span class="aside">Information Technology, SIIT, Thammasat University</span>
 
 ---
 
