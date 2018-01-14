@@ -1,11 +1,11 @@
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+# 80,000 hours
 
-#### Markdown Presentations For Everyone on Git.*
+#### Career Advice For Darunsikkhalai School for Innovative Learning.*
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">[Hataichanok Unphon, PhD]</span>
 
 ---
 
