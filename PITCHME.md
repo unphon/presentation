@@ -60,8 +60,6 @@ Got a job!
 ## How best to choose a career 
 <br>
 #### with high social impact?
-<br>
-<span style="font-size:0.6em; color:gray">Making a Difference</span>
 
 @fa[arrow-down]
 
@@ -208,6 +206,12 @@ Note: You can switch into if Plan A doesn't quite go as intended.
 <span class="aside">Your templrary fallback</span>
 
 Note: In case everthing goes wrong. Having a Plan Z helps you take bigger risks.
+
+---
+
+@title[Message to take home]
+
+### Make a Difference
 
 ---?image=assets/book.png&size=auto 90%
 @title[Reference]
