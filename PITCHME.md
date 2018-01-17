@@ -181,6 +181,8 @@ Got a job!
 <br>
 <span class="aside">Top option</span>
 
+Note: If you're relatively confident about what you want to do in the medium-term, focus on that. If you are more uncertain, look to try out several options. If you're very uncertain, plan to do more research while building flexible career capital.
+
 @fa[arrow-down]
 
 +++
@@ -189,6 +191,8 @@ Got a job!
 #### Plan B
 <br>
 <span class="aside">Nearby alternatives</span>
+
+Note: You can switch into if Plan A doesn't quite go as intended.
 
 @fa[arrow-down]
 
@@ -199,6 +203,7 @@ Got a job!
 <br>
 <span class="aside">Your templrary fallback</span>
 
+Note: In case everthing goes wrong. Having a Plan Z helps you take bigger risks.
 
 ---?image=assets/book.png&size=auto 90%
 @title[Reference]
