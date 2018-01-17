@@ -181,9 +181,9 @@ Got a job!
 <br>
 <span class="aside">Top option</span>
 
-Note: If you're relatively confident about what you want to do in the medium-term, focus on that. If you are more uncertain, look to try out several options. If you're very uncertain, plan to do more research while building flexible career capital.
-
 @fa[arrow-down]
+
+Note: If you're relatively confident about what you want to do in the medium-term, focus on that. If you are more uncertain, look to try out several options. If you're very uncertain, plan to do more research while building flexible career capital.
 
 +++
 
@@ -192,9 +192,9 @@ Note: If you're relatively confident about what you want to do in the medium-ter
 <br>
 <span class="aside">Nearby alternatives</span>
 
-Note: You can switch into if Plan A doesn't quite go as intended.
-
 @fa[arrow-down]
+
+Note: You can switch into if Plan A doesn't quite go as intended.
 
 +++
 
