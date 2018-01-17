@@ -224,5 +224,7 @@ Note: In case everthing goes wrong. Having a Plan Z helps you take bigger risks.
 
 ### Make a Difference
 
+Note: One person can make a difference, but you might have to do something a little unconventional.
+
 ---?image=assets/book.png&size=auto 90%
 @title[Reference]
