@@ -163,5 +163,37 @@ Got a job!
 #### Make your best guess, 
 #### and then prepare to adapt
 
+---
+
+@title[How to make your career plan]
+
+### How to make your career plan
+
+<br>
+<span class="aside">The A/B/Z plan</span>
+
+@fa[arrow-down]
+
++++
+
+@title[Pland A]
+#### Plan A - top option
+
+@fa[arrow-down]
+
++++
+
+@title[Pland B]
+#### Plan B - top option
+
+@fa[arrow-down]
+
++++
+
+@title[Pland Z]
+#### Plan Z - your templrary fallback
+
+@fa[arrow-down]
+
 ---?image=assets/book.png&size=auto 90%
 @title[Reference]
