@@ -115,6 +115,8 @@ Note: The definition of “making a difference” or “having a social impact�
 
 @fa[arrow-down]
 
+Note: Make sure you have a clear idea of exactly what decision you want to make.
+
 +++
 
 @title[Step 2]
@@ -122,12 +124,15 @@ Note: The definition of “making a difference” or “having a social impact�
 
 @fa[arrow-down]
 
+Note: Once you’re clear about the next decision you need to make, write out your 4-7 most important priorities for the next step.
 +++
 
 @title[Step 3]
 #### Brainstorm options
 
 @fa[arrow-down]
+
+Note: Here’s some ways to come up with new ideas: Top careers, Ideal world, Ask your friends, Priorities, Combinations, Elimination.
 
 +++
 
@@ -143,27 +148,33 @@ Note: The definition of “making a difference” or “having a social impact�
 
 @fa[arrow-down]
 
+Note: Some of the most common questions are things like: Would I enjoy this job?, Could I get this job?, Could I succeed in this job?
+
 +++
 
 @title[Step 6]
 #### Go and investigate
 
-
 @fa[arrow-down]
+
+Note: Is there someone you could talk to? Is there something you could read?
 
 +++
 
 @title[Step 7]
 #### Do your final assessment
 
-
 @fa[arrow-down]
+
+Note: Take your top two to five options, and score them from one to ten based on each of the factors from the second step. Explicitly writing out your priorities and assessing your options with reference to them should help you avoid getting misled by irrelevant factors.
 
 +++
 
 @title[Step 8]
 #### Make your best guess, 
 #### and then prepare to adapt
+
+Note: don’t forget, you’re probably only committing for the next few years at most. Building a career is a step-by-step process, not a one-off decision.
 
 ---
 
