@@ -184,7 +184,7 @@ Got a job!
 +++
 
 @title[Pland B]
-#### Plan B - top option
+#### Plan B - nearby alternatives
 
 @fa[arrow-down]
 
