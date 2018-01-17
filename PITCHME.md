@@ -177,23 +177,28 @@ Got a job!
 +++
 
 @title[Pland A]
-#### Plan A - top option
+#### Plan A 
+<br>
+<span class="aside">Top option</span>
 
 @fa[arrow-down]
 
 +++
 
 @title[Pland B]
-#### Plan B - nearby alternatives
+#### Plan B
+<br>
+<span class="aside">Nearby alternatives</span>
 
 @fa[arrow-down]
 
 +++
 
 @title[Pland Z]
-#### Plan Z - your templrary fallback
+#### Plan Z
+<br>
+<span class="aside">Your templrary fallback</span>
 
-@fa[arrow-down]
 
 ---?image=assets/book.png&size=auto 90%
 @title[Reference]
