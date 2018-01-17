@@ -60,8 +60,12 @@ Got a job!
 ## How best to choose a career 
 <br>
 #### with high social impact?
+<br>
+<span style="font-size:0.6em; color:gray">Making a Difference</span>
 
 @fa[arrow-down]
+
+Note: The definition of “making a difference” or “having a social impact” is "The number of people whose lives you improve, and how much you improve them by."
 
 +++
 @title[80000 hours]
